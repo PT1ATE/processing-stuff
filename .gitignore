@@ -1,0 +1,19 @@
+.DS_Store
+applet
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+
+# Local exclusions #
+####################
+_backup/*
+Dome/*
+examples/*
+Generative-Design-Code-Package_2/*
+pr_run.sh
+libraries/*
+tools/*
+Parasitic Design v4_0/*
+SerialCallResponse/*
